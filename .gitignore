@@ -26,6 +26,10 @@
 *.zip
 *~
 
+# composer itself is not needed and related files
+composer.phar
+composer.lock
+
 # OS or Editor folders
 ._*
 .cache
